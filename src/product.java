@@ -12,7 +12,7 @@ public class product
     {
         name = productName; //Name of the product
         price = productPrice; //Price of the product
-        quantity = numPurchased; //Thr quantity of the product
+        quantity = numPurchased; //The quantity of the product
     }
     //Next methods take the information from the array
     public String getName()
